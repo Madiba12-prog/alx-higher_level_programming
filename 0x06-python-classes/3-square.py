@@ -28,4 +28,4 @@ class Square:
             area (int): length of one side, squared
         """
         area = self.__size * self.__size
-        return 
+        return area
