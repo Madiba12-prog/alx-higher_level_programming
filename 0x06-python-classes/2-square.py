@@ -1,5 +1,3 @@
-nes (12 sloc)  361 Bytes
-
 #!/usr/bin/python3
 """Square generation module for Python project 0x06
 """
