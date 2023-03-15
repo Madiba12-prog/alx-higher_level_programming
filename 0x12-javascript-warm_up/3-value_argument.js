@@ -1,7 +1,7 @@
 #!/usr/bin/node
-const myArgs = process.argv.slice(2);
-if (!myArgs[0]) {
-  console.log('No argument');
+
+if (process.argv[2]) {
+  console.log(process.argv[2]);
 } else {
-  console.log(myArgs[0]);
+  console.log('No argument');
 }
